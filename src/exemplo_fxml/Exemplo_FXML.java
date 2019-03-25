@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author coelho
+ * @author Rafael Vieira Coelho
  */
 public class Exemplo_FXML extends Application {
     
